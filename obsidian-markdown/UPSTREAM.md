@@ -8,3 +8,4 @@
 - Original author: Steph Ango (@kepano)
 - License: MIT
 - Adaptation: Added source-preserving research-note guidance, metadata safeguards, extensible callout and embed behavior, and conventions for math-heavy notes. Faithful OCR guidance was split into the companion `obsidian-transcription` skill.
+- Human-only maintenance note: `OFFICIAL_DOCS.md` links to the official Obsidian Help sources and is intentionally not referenced from `SKILL.md`.
