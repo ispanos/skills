@@ -1,0 +1,4 @@
+interface:
+  display_name: "Document Markup Writing"
+  short_description: "Maintain LaTeX, Markdown, and related markup"
+  default_prompt: "Use $document-markup-writing to revise this document markup while preserving its meaning, structure, and rendered output."

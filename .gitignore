@@ -1,0 +1,22 @@
+# Credentials and local state
+.env
+.env.*
+!.env.example
+*credentials*
+*secret*
+*token*
+auth.json
+*.key
+*.pem
+*.p12
+*.sqlite
+*.sqlite-*
+*.db
+*.jsonl
+
+# Generated files and dependencies
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.DS_Store

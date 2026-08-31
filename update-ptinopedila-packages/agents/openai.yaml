@@ -1,0 +1,4 @@
+interface:
+  display_name: "Update ptinopedila Packages"
+  short_description: "Add default Brew and Flatpak packages"
+  default_prompt: "Use $update-ptinopedila-packages to add a Brew package or Flatpak to my custom image and push it."
